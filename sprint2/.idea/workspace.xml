@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cffcbece-50d0-4864-bdda-4e58e1594af8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/celsius_fahrenheit_kelvin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fibonacci.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yahtzee.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,14 +37,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="celsius_fahrenheit_kelvin" pinned="false" current-in-tab="true">
+      <file leaf-file-name="celsius_fahrenheit_kelvin" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/celsius_fahrenheit_kelvin">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="255">
               <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yahtzee.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yahtzee.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
               <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1517897280640" expanded="true" signature="449:512" ph="..." />
+                <marker date="1517897280640" expanded="true" signature="449:536" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fibonacci.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fibonacci.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,6 +82,8 @@
         <option value="$PROJECT_DIR$/oneven.php" />
         <option value="$PROJECT_DIR$/grolsch.php" />
         <option value="$PROJECT_DIR$/celsius_fahrenheit_kelvin" />
+        <option value="$PROJECT_DIR$/yahtzee.php" />
+        <option value="$PROJECT_DIR$/fibonacci.php" />
       </list>
     </option>
   </component>
@@ -68,10 +93,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="25" />
+    <option name="x" value="280" />
+    <option name="y" value="27" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -135,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1517856365353</updated>
       <workItem from="1517856367021" duration="1019000" />
-      <workItem from="1517859863165" duration="605000" />
+      <workItem from="1517859863165" duration="2982000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht 2 backend sprint 2 (grolsch.php) toegevoegd">
       <created>1517857280222</created>
@@ -144,14 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1517857280222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Opdracht 3 backend sprint 2 (celsius -&gt; fahrenheit -&gt; kelvin) toegevoegd">
+      <created>1517860514593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517860514593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1624000" />
+    <option name="totallyTimeSpent" value="4001000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="25" width="1400" height="1000" extended-state="0" />
+    <frame x="280" y="27" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -204,10 +239,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Opdracht 2 backend sprint 2 (grolsch.php) toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 2 backend sprint 2 (grolsch.php) toegevoegd" />
+    <MESSAGE value="Opdracht 3 backend sprint 2 (celsius -&gt; fahrenheit -&gt; kelvin) toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 3 backend sprint 2 (celsius -&gt; fahrenheit -&gt; kelvin) toegevoegd" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -229,6 +267,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/oneven.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grolsch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -239,21 +285,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oneven.php">
+    <entry file="file://$PROJECT_DIR$/celsius_fahrenheit_kelvin">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/celsius_fahrenheit_kelvin">
+    <entry file="file://$PROJECT_DIR$/yahtzee.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="629">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1517897280640" expanded="true" signature="449:512" ph="..." />
+            <marker date="1517897280640" expanded="true" signature="449:536" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonacci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
